@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBChatSocket", "VBChatSocket\VBChatSocket.vbproj", "{8A13BD97-27F6-425A-BD99-4BACAACE7101}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBChatSocket.Cliente", "VBChatSocket.Cliente\VBChatSocket.Cliente.vbproj", "{2766C30F-1701-4ED4-B84A-76B45C555D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A13BD97-27F6-425A-BD99-4BACAACE7101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A13BD97-27F6-425A-BD99-4BACAACE7101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A13BD97-27F6-425A-BD99-4BACAACE7101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A13BD97-27F6-425A-BD99-4BACAACE7101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2766C30F-1701-4ED4-B84A-76B45C555D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2766C30F-1701-4ED4-B84A-76B45C555D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2766C30F-1701-4ED4-B84A-76B45C555D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2766C30F-1701-4ED4-B84A-76B45C555D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
